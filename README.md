@@ -11,4 +11,4 @@ The HTML5 Javascript remix built with [Phaser](http://phaser.io) 2.0 and [genera
   - [ ] Build prototype #15
   - [ ] Test run #43 @world-domination/time-travel
 - [ ] ...?
-- [ ] Profit!
+- [x] Profit!
